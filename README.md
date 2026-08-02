@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
@@ -44,4 +46,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
