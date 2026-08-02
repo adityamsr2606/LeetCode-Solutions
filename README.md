@@ -29,6 +29,7 @@
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
