@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
