@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
