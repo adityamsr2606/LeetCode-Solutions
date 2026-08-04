@@ -40,6 +40,7 @@
 | [0485-max-consecutive-ones](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0001-two-sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
