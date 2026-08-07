@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
