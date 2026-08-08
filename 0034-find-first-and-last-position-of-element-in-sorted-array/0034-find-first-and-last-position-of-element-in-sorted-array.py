@@ -19,7 +19,7 @@ class Solution:
             else:
                 high = mid - 1
 
-        # Find last occurrence
+        
         low = 0
         high = n - 1
         last = -1
