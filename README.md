@@ -93,6 +93,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@
 | [0018-4sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -127,6 +129,7 @@
 | [0014-longest-common-prefix](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -150,4 +153,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
