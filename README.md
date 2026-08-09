@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
