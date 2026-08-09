@@ -116,4 +116,16 @@
 | [0048-rotate-image](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
