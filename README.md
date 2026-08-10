@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
@@ -165,4 +167,24 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
