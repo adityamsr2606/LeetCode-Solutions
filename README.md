@@ -45,6 +45,7 @@
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@
 | [0015-3sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -206,4 +209,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
