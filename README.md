@@ -50,6 +50,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0013-roman-to-integer](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -117,6 +120,7 @@
 | [0015-3sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -182,6 +186,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Minimax
 |  |
@@ -217,4 +222,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
