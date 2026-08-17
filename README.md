@@ -55,6 +55,7 @@
 | [0238-product-of-array-except-self](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -72,6 +73,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -96,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -226,4 +230,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
