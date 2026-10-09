@@ -47,6 +47,7 @@
 | [0054-spiral-matrix](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -259,4 +261,8 @@
 | [0206-reverse-linked-list](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
