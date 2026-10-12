@@ -172,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -265,4 +266,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
