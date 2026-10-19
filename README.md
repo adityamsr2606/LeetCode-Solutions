@@ -60,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -177,6 +178,7 @@
 | [0155-min-stack](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -282,4 +284,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adityamsr2606/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
